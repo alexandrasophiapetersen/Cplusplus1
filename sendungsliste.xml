@@ -1,0 +1,65 @@
+<sendungsliste>
+    <sender>
+        <sendername>VOX</sendername>
+        <sendung id="A1">
+            <sendungsname>Mein Kind, dein Kind - Wie erziehst du denn?</sendungsname>
+            <genre>Tägliche Serie</genre>
+            <ausstrahlungszeit>täglich</ausstrahlungszeit>
+            <ausstrahlungsdauer>5 Jahre</ausstrahlungsdauer>
+        </sendung>
+        <sendung id="A2">
+            <sendungsname>Shopping Queen</sendungsname>
+            <genre>Tägliche Serie</genre>
+            <ausstrahlungszeit>täglich</ausstrahlungszeit>
+            <ausstrahlungsdauer>15 Jahre</ausstrahlungsdauer>
+        </sendung>
+        <sendung id="A3">
+            <sendungsname>auto mobil</sendungsname>
+            <genre>Auto</genre>
+            <ausstrahlungszeit>Sonntag</ausstrahlungszeit>
+            <ausstrahlungsdauer>3 Jahre</ausstrahlungsdauer>
+        </sendung>
+    </sender>
+    <sender>
+        <sendername>RTL</sendername>
+        <sendung id="B1">
+            <sendungsname>Wer wird Millionär?</sendungsname>
+            <genre>Show</genre>
+            <ausstrahlungszeit>Montag Primetime</ausstrahlungszeit>
+            <ausstrahlungsdauer>25 Jahre</ausstrahlungsdauer>
+        </sendung>
+        <sendung id="B2">
+            <sendungsname>Bauer sucht Frau</sendungsname>
+            <genre>Show</genre>
+            <ausstrahlungszeit>Dienstag Primetime</ausstrahlungszeit>
+            <ausstrahlungsdauer>15 Jahre</ausstrahlungsdauer>
+        </sendung>
+        <sendung id="B3">
+            <sendungsname>Deutschland sucht den Superstar</sendungsname>
+            <genre>Show</genre>
+            <ausstrahlungszeit>Samstag Primetime</ausstrahlungszeit>
+            <ausstrahlungsdauer>20 Jahre</ausstrahlungsdauer>
+        </sendung>
+    </sender>
+    <sender>
+        <sendername>RTL2</sendername>
+        <sendung id="C1">
+            <sendungsname>Berlin - Tag und Nacht</sendungsname>
+            <genre>Tägliche Serie</genre>
+            <ausstrahlungszeit>täglich</ausstrahlungszeit>
+            <ausstrahlungsdauer>2 Jahre</ausstrahlungsdauer>
+        </sendung>
+        <sendung id="C2">
+            <sendungsname>BABYs! Kleines Wunder - großes Glück</sendungsname>
+            <genre>Familie</genre>
+            <ausstrahlungszeit>Montag Primetime</ausstrahlungszeit>
+            <ausstrahlungsdauer>10 Jahre</ausstrahlungsdauer>
+        </sendung>
+        <sendung id="C3">
+            <sendungsname>Die Geissens</sendungsname>
+            <genre>Show</genre>
+            <ausstrahlungszeit>Dienstag Primetime</ausstrahlungszeit>
+            <ausstrahlungsdauer>5 Jahre</ausstrahlungsdauer>
+        </sendung>
+    </sender>
+</sendungsliste>
