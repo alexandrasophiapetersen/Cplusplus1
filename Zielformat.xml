@@ -4,12 +4,10 @@
     <sender>
         <sendername>VOX</sendername>
         <sendung id="A1">
-            <meta>
             <sendungsname>Mein Kind, dein Kind - Wie erziehst du denn?</sendungsname>
             <genre>Tägliche Serie</genre>
             <ausstrahlungszeit>täglich</ausstrahlungszeit>
             <ausstrahlungsdauer>5 Jahre</ausstrahlungsdauer>
-            </meta>
             <episoden>
                 <staffel nummer="S1">20</staffel>
             </episoden> 
@@ -21,12 +19,10 @@
             </episoden>
         </sendung>
         <sendung id="A2">
-            <meta>
             <sendungsname>Shopping Queen</sendungsname>
             <genre>Tägliche Serie</genre>
             <ausstrahlungszeit>täglich</ausstrahlungszeit>
             <ausstrahlungsdauer>15 Jahre</ausstrahlungsdauer>
-            </meta>
             <episoden>
                 <staffel nummer="S1">12</staffel>
             </episoden>
@@ -41,12 +37,10 @@
             </episoden>
         </sendung>
         <sendung id="A3">
-            <meta>
             <sendungsname>auto mobil</sendungsname>
             <genre>Auto</genre>
             <ausstrahlungszeit>Sonntag</ausstrahlungszeit>
             <ausstrahlungsdauer>3 Jahre</ausstrahlungsdauer>
-            </meta>
             <episoden>
                 <staffel nummer="S1">11</staffel>
             </episoden>
@@ -58,12 +52,10 @@
     <sender>
         <sendername>RTL</sendername>
         <sendung id="B1">
-            <meta>
             <sendungsname>Wer wird Millionär?</sendungsname>
             <genre>Show</genre>
             <ausstrahlungszeit>Montag Primetime</ausstrahlungszeit>
             <ausstrahlungsdauer>25 Jahre</ausstrahlungsdauer>
-            </meta>
             <episoden>
                 <staffel nummer="S1">10</staffel>
             </episoden>
@@ -75,12 +67,10 @@
             </episoden>
         </sendung>
         <sendung id="B2">
-            <meta>
             <sendungsname>Bauer sucht Frau</sendungsname>
             <genre>Show</genre>
             <ausstrahlungszeit>Dienstag Primetime</ausstrahlungszeit>
             <ausstrahlungsdauer>15 Jahre</ausstrahlungsdauer>
-            </meta>
             <episoden>
                 <staffel nummer="S1">8</staffel>
             </episoden>
@@ -92,17 +82,13 @@
             </episoden>
             <episoden>
                 <staffel nummer="S4">12</staffel>
-            </episoden>
-            
-            
+            </episoden>           
         </sendung>
         <sendung id="B3">
-            <meta>
             <sendungsname>Deutschland sucht den Superstar</sendungsname>
             <genre>Show</genre>
             <ausstrahlungszeit>Samstag Primetime</ausstrahlungszeit>
             <ausstrahlungsdauer>20 Jahre</ausstrahlungsdauer>
-            </meta>
             <episoden>
                 <staffel nummer="S1">12</staffel>
             </episoden>
@@ -126,12 +112,10 @@
     <sender>
         <sendername>RTL2</sendername>
         <sendung id="C1">
-            <meta>
             <sendungsname>Berlin - Tag und Nacht</sendungsname>
             <genre>Tägliche Serie</genre>
             <ausstrahlungszeit>täglich</ausstrahlungszeit>
             <ausstrahlungsdauer>2 Jahre</ausstrahlungsdauer>
-            </meta>
             <episoden>
                 <staffel nummer="S1">17</staffel>
             </episoden>
@@ -140,12 +124,10 @@
             </episoden>
         </sendung>
         <sendung id="C2">
-            <meta>
             <sendungsname>BABYs! Kleines Wunder - großes Glück</sendungsname>
             <genre>Familie</genre>
             <ausstrahlungszeit>Montag Primetime</ausstrahlungszeit>
             <ausstrahlungsdauer>10 Jahre</ausstrahlungsdauer>
-            </meta>
             <episoden>
                 <staffel nummer="S1">16</staffel>
             </episoden>
@@ -157,12 +139,10 @@
             </episoden>
         </sendung>
         <sendung id="C3">
-            <meta>
             <sendungsname>Die Geissens</sendungsname>
             <genre>Show</genre>
             <ausstrahlungszeit>Dienstag Primetime</ausstrahlungszeit>
             <ausstrahlungsdauer>5 Jahre</ausstrahlungsdauer>
-            </meta>
             <episoden>
                 <staffel nummer="S1">11</staffel>
             </episoden>
