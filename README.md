@@ -1,1 +1,3 @@
-# Cplusplus1
+# Semesterarbeit C++ Aufgabenteil 1 - Alexandra Petersen
+
+Repository: 
