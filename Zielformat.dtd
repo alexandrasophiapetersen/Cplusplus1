@@ -2,15 +2,12 @@
 <!ELEMENT sendungsliste (sender+)>
 <!ELEMENT sender (sendername,sendung+)>
 <!ELEMENT sendername (#PCDATA)>
-<!ELEMENT sendung (meta+,episoden+)>
+<!ELEMENT sendung (sendungsname, genre, ausstrahlungszeit, ausstrahlungsdauer,episoden+)>
 <!ATTLIST sendung id ID #REQUIRED >
-<!ELEMENT meta (sendungsname, genre, ausstrahlungszeit, ausstrahlungsdauer)>
 <!ELEMENT sendungsname (#PCDATA)>
-<!ELEMENT name (#PCDATA)>
 <!ELEMENT genre (#PCDATA)>
 <!ELEMENT ausstrahlungszeit (#PCDATA)>
 <!ELEMENT ausstrahlungsdauer (#PCDATA)>
 <!ELEMENT episoden (staffel)>
 <!ELEMENT staffel (#PCDATA)>
-
 <!ATTLIST staffel nummer CDATA #REQUIRED>
